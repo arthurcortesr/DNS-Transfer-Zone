@@ -53,7 +53,7 @@ businesscorp.com.br.    86400  IN      NS      ns2.businesscorp.com.br.
 
 <br>
 
-## **Funcionamento**
+## **Funcionalidades**
 
 1. Verificação de Argumentos:
   O script verifica se o número correto de argumentos foi fornecido. Caso contrário, exibe uma mensagem informativa sobre o modo de uso e encerra a execução.
